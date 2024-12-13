@@ -14,3 +14,4 @@ unstructured
 aisuite
 sentence-transformers
 pypdf
+langchain-huggingface
