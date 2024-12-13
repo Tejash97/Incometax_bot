@@ -28,7 +28,8 @@ llm = ChatGroq(
 prompt = ChatPromptTemplate.from_template(
     """
     Answer the questions based on the provided context only.
-    Please provide the most accurate response based on the question
+    Please provide the most accurate response based on the question,
+    if the context not in the context just say Its not there in the Income TAX 1961
     <context>
     {context}
     <context>
