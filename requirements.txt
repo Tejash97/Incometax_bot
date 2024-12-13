@@ -13,4 +13,4 @@ pymupdf
 unstructured
 aisuite
 sentence-transformers
-faiss
+pypdf
